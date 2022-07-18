@@ -1,6 +1,7 @@
 # Pewlett-Hackard-Analysis
 #Overview of the analysis
 ##The purpose of the analysis for Pewlett Hackard was to determine how many employees were approaching retirement and if there were enough eligible employees to be groomed into filling those vacated roles.
+
 #Results: Provide a bulleted list with four major points from the two analysis deliverables. Use images as support where needed.
 	
 ##Our retirement_titles query returned 133,776 titles.  However, upon further investigation of the data it showed many employees held multiple titles over the years with the company.  Those duplicate entries would need to be filtered out to get a more accurate number of roles needing to be filled.
